@@ -4,6 +4,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!RAAAAAAAAA" << endl;
+    cout << "Hello worsdfsfsfsdfsld!RAAAAAAAAA" << endl;
+
+    cout << "Hello worsdfsfsfsdfsld!RAAAAAAAAA" << endl;
+
+    cout << "Hello worsdfsfsfsdfsld!RAAAAAAAAA" << endl;
+
     return 0;
 }
